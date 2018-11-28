@@ -1,0 +1,7 @@
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\ProyectoJRF\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\ProyectoJRF\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\ProyectoJRF\capaDatos\bin\Debug\capaEntidades.dll
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\ProyectoJRF\capaDatos\bin\Debug\capaEntidades.pdb
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\ProyectoJRF\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\ProyectoJRF\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\ProyectoJRF\capaDatos\obj\Debug\capaDatos.pdb

@@ -1,0 +1,4 @@
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\ProyectoJRF\capaEntidades\bin\Debug\capaEntidades.dll
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\ProyectoJRF\capaEntidades\bin\Debug\capaEntidades.pdb
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\ProyectoJRF\capaEntidades\obj\Debug\capaEntidades.dll
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\ProyectoJRF\capaEntidades\obj\Debug\capaEntidades.pdb
